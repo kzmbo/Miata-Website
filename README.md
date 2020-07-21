@@ -5,7 +5,7 @@ I have no intention of using this website for commercial use. I'm just a Miata f
 
 Feel free to download.
 
-To-do List:
+To-do List: <br/>
 [ ] javascript <br/>
 [ ] animation <br/>
 [ ] more interactive stuff <br/>
